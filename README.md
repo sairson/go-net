@@ -45,4 +45,5 @@ func main(){
 ```
 https://github.com/ropnop/go-clr
 https://github.com/Ne0nd0g/go-clr
+https://blog.ropnop.com/hosting-clr-in-golang/
 ```
